@@ -1,20 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
+  <meta charset="UTF-8">
+  <title>Enemy UI</title>
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<div class="card">
-  <div class="left">
-    <h1 id="name"></h1>
-    <img id="image" width="150"/>
+  <div class="card">
+    <!-- LADO ESQUERDO -->
+    <div class="left">
+      <h1 id="name">Nome do Inimigo</h1>
+      <img id="image" src="" alt="Imagem do inimigo" width="150">
+    </div>
+
+    <!-- LADO DIREITO -->
+    <div class="right" id="stats">
+      <!-- Stats vão aparecer aqui automaticamente -->
+    </div>
   </div>
 
-  <div class="right" id="stats"></div>
-</div>
-
-<script src="script.js"></script>
-
+  <script src="script.js"></script>
 </body>
 </html>
