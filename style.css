@@ -7,6 +7,15 @@
   padding: 20px;
   display: flex;
   gap: 20px;
+  border-radius: 10px;
+}
+
+.left img {
+  border-radius: 10px;
+}
+
+.stat {
+  margin-bottom: 10px;
 }
 
 .circle {
