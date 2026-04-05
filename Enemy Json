@@ -1,0 +1,9 @@
+{
+  "name": "Urso Maior",
+  "image": "urso.png",
+  "stats": [
+    { "label": "Vida", "value": 80, "color": "#ff3b3b" },
+    { "label": "Mana", "value": 30, "color": "#1aa6b7" },
+    { "label": "Defesa", "value": 15, "color": "#aaaaaa" }
+  ]
+}
