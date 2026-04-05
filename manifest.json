@@ -1,0 +1,7 @@
+{
+  "name": "Enemy UI",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "author": "Você",
+  "entry": "index.html"
+}
